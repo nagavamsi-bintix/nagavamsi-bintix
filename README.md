@@ -4,8 +4,6 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=nagavamsi-bintix&label=Profile%20views&color=0e75b6&style=flat" alt="snagavamsi123" /> </p>
 
 
-- 🌱 I’m currently learning on **something that i dont know**
-
 - 👯 I’m looking to collaborate on **Web Projects**
 
 - 💬 Ask me about **Python,Django,FastAPI,Flask,NextJS(React),React Native,Node JS**
